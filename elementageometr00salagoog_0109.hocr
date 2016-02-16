@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./elementageometr00salagoog_0109.png"; bbox 0 0 3234 4926; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 101 1635 1416 2157">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 43 1483 1416 2157">
+     <span class='ocr_line' id='line_1_1' title="bbox 171 1635 984 1836; baseline 0.012 -65.445"><span class='ocrx_word' id='word_1_1' title='bbox 171 1635 984 1836; x_wconf 11' lang='lat' dir='ltr'>NELEMENTA&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 101 1912 1416 2157; baseline -0.001 -45"><span class='ocrx_word' id='word_1_2' title='bbox 101 1933 1062 2112; x_wconf 66' lang='lat' dir='ltr'>GEoMETsslAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1285 1912 1287 1916; x_wconf 78' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1410 2146 1416 2157; x_wconf 79' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 12 2296 990 2410">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 12 2265 990 2410">
+     <span class='ocr_line' id='line_1_3' title="bbox 12 2296 990 2410; baseline 0.007 -14"><span class='ocrx_word' id='word_1_5' title='bbox 12 2387 15 2396; x_wconf 82' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 171 2296 990 2410; x_wconf 65' lang='grc' dir='ltr'><strong>ιΝΕιΝιΤΕεΙΜοκυΜ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 228 2554 935 2750">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 228 2554 935 2750">
+     <span class='ocr_line' id='line_1_4' title="bbox 228 2554 935 2750; baseline -0.017 -28"><span class='ocrx_word' id='word_1_7' title='bbox 228 2554 496 2750; x_wconf 62' lang='lat' dir='ltr'><strong>Lim</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 540 2613 935 2747; x_wconf 62' lang='lat' dir='ltr'><strong>TERTIUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1622 4916">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1622 4916">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1622 4916; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1622 4916; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
